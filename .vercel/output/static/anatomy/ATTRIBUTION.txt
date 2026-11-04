@@ -1,0 +1,18 @@
+Anatomical meshes in this folder are not original work.
+
+Source: BodyParts3D, The Database Center for Life Science (DBCLS), Japan.
+Derived atlas: Z-Anatomy, by Gauthier Kervyn and contributors.
+Browser packages: systems exported by DrMuratAltun/anatomi-simulatoru
+(ic-organlar, iskelet, dolasim, sinir, kas, eklem), renamed here to
+organs.glb, skeleton.glb, vessels.glb, nerves.glb, muscles.glb and joints.glb.
+No geometry was edited. The viewer only hides, colors and merges meshes
+in memory so a lesson can show one region at a time.
+
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+BodyParts3D is also offered by DBCLS under CC BY 4.0; the Z-Anatomy
+adaptation used here remains CC BY-SA 4.0.
+
+Attribution required: BodyParts3D (DBCLS) and Z-Anatomy.
+ShareAlike applies to these meshes and any adaptation of them.
+This file must stay with the meshes.
